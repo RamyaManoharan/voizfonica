@@ -1,0 +1,19 @@
+.side {
+    flex: 40%;
+    background-color: #f1f1f1;
+    font-size: 60px;
+    padding: 250px 40px  250px 40px;
+    color:tomato;
+    font-family: cursive
+   
+}
+.main {   
+    flex: 60%;
+    background-color: white;
+    padding: 250px 40px  250px 40px;
+    font-size: 30px;
+   
+    
+    
+  
+  }

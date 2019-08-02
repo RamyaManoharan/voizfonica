@@ -1,0 +1,6 @@
+.grad {
+    background-image: linear-gradient(to right,rgba(0,255,255,0.1),rgba(0, 250, 154,0.9));
+}
+.card:hover{
+transform: scale(1.1);
+}
